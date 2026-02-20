@@ -1,0 +1,5 @@
+!hashcards.db
+
+.DS_Store
+.cache
+.direnv
