@@ -19,6 +19,7 @@ and health coverage, and preparing for future eligibility at ages 62 and 65.
 ## Personal Information
 
 - DOB: 9/16/1965
+- SSN: 258-41-6033
 
 ## Tasks
 
@@ -81,11 +82,28 @@ Bonnie said that due to Keith being rejected for SSI three times, we need to get
 - Power of Attorney
 - Estate Planning (Bonnie)
 - Medicaid Planning
+- SSI Rejections
+- Living Will
 
 **Questions**
 
 - How should we go about getting his SSI (Suplementary Security Income) benefits approved after three rejections?
 - When is it important to start investigating power of attorney, why?
+
+**Notes**
+
+- The social security agency thinks that he could work a job, eventhough it is not true.
+- To get SSI you have to have < $2k assets. We need to make sure he doesn't have any money in his checking account.
+- He needs a Power of Attorney to act on his behalf and stays under the $2k limit.
+- He has a court date at the end of the month. Faliure to maintain a lane. Failure to notify of a address change. Wreck. DUI. The attorney knows about the dementia.
+- Bonnie needs to setup a supplemental needs trust that keith needs to be a beneficiary of. And he should not receive too much money so that he would get kicked off of ssi/medicaid. This trust cannot be targeted by the IRS.
+- He needs a financial power of attorney and a healthcare directive (living will doesn't exist in GA anymore, but they have healthcare directives).
+- He will give us a law firm for SSI. (Rogers Hofrichtar & Karrh) 770-336-7784.
+- Checking joint owner and or payable on death beneficiary beacuse hhe won't need a will.
+- After we get disability etermination, we should look into which medicaid waiver programs that he may be able to tap into before 65 that might be able to provide better care options for the long haul. This is something that can be handled by Hurley.
+- The IRS can get access to the income from SSI, but that is fine, because we really just want the medicaid.
+- Currently, Olivia and Josh have equal rights to make his medical decisions.
+- We will need to come back in-person for the signing of the health directive and power of attorney.
 
 ---
 
