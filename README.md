@@ -26,11 +26,11 @@ and health coverage, and preparing for future eligibility at ages 62 and 65.
 
 - ✅ Create documentation and project planning
 - ☑️ Meet with Hurley Elder Care Law
-- ☑️ Meet with Michel Sheheane
+- ✅ Meet with Michel Sheheane
 
 ### Care Facility
 
-- ☑️ Investigate care facilities and payment terms
+- ☑️ Investigate need for care facility
 
 ### Government Accounts
 
