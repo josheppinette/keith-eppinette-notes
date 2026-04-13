@@ -105,6 +105,10 @@ Bonnie said that due to Keith being rejected for SSI three times, we need to get
 - Currently, Olivia and Josh have equal rights to make his medical decisions.
 - We will need to come back in-person for the signing of the health directive and power of attorney.
 
+### 4/10/26 - Hurley Law Firm
+
+Keith signed his power of attorney and medical directive documents.
+
 ---
 
 ## Complications
@@ -142,9 +146,16 @@ We should investigate a trust for those funds, so they will not be garnished by 
   - Phone: (770) 716-1562
 
 - **WMG Neurology and Headache Center**
-  - Website:https://www.wellstar.org/locations/medical-practice/neurology-and-headache-center-marietta-780-canton-road-ne-suite-410
+
+  - Website: https://www.wellstar.org/locations/medical-practice/neurology-and-headache-center-marietta-780-canton-road-ne-suite-410
   - Address: 710 Canton Road NE, Suite 410, Marietta GA 30060
   - Phone: (770) 422-3602
+
+- **Brock & Stout Attorneys at Law**
+
+  - Website: https://www.brockandstout.com/contact-us/schedule-appointment/
+  - Address: 260 W Peachtree St NW #2200, Atlanta, GA 30303
+  - Phone: (404) 755-3373
 
 ---
 
