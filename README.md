@@ -20,6 +20,8 @@ and health coverage, and preparing for future eligibility at ages 62 and 65.
 
 - DOB: 9/16/1965
 - SSN: 258-41-6033
+- Birth Location (City/State):
+- Mother's Maiden Name: Whidby
 
 ## Tasks
 
@@ -156,6 +158,7 @@ We should investigate a trust for those funds, so they will not be garnished by 
   - Website: https://www.brockandstout.com/contact-us/schedule-appointment/
   - Address: 260 W Peachtree St NW #2200, Atlanta, GA 30303
   - Phone: (404) 755-3373
+  - Contacts: Danielle (Intake Manager)
 
 ---
 
